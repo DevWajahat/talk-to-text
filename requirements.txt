@@ -1,6 +1,6 @@
 streamlit==1.36.0
-transformers==4.38.2
-torch==2.2.2+cpu --index-url https://download.pytorch.org/whl/torch_stable/
+transformers==4.43.3
+torch==2.3.1 --extra-index-url https://download.pytorch.org/whl/cpu
 numpy==2.0.0
 resampy==0.4.3
 requests==2.32.3
